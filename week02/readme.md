@@ -16,7 +16,7 @@ detail: 프로세싱 및 아두이노 설치/개발환경 소개
 
     또는 아래를 참고한다.
 
-    ![2/Untitled.png](2/Untitled.png)
+    ![2/Untitled.png](images/Untitled.png)
 
 - macOS는 64비트 전용 운영체제입니다.
 - 리눅스 운영체제에서 설치하기
@@ -26,13 +26,13 @@ detail: 프로세싱 및 아두이노 설치/개발환경 소개
 
 [http://processing.org/download/](http://processing.org/download/)
 
-![2/Untitled%201.png](2/Untitled%201.png)
+![2/Untitled%201.png](images/Untitled%201.png)
 
 ## 아두이노 설치
 
 [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
 
-![2/Untitled%202.png](2/Untitled%202.png)
+![2/Untitled%202.png](images/Untitled%202.png)
 
 프로세싱과 마찬가지로 사용중인 운영제체에 맞는 버전을 다운받아 설치합니다.
 
@@ -42,7 +42,7 @@ detail: 프로세싱 및 아두이노 설치/개발환경 소개
 
 ## 프로세싱
 
-![2/Untitled%203.png](2/Untitled%203.png)
+![2/Untitled%203.png](images/Untitled%203.png)
 
 ### 에디터
 
@@ -57,7 +57,7 @@ detail: 프로세싱 및 아두이노 설치/개발환경 소개
 - 에러 확인
 - 환경설정
 
-    ![2/Untitled%204.png](2/Untitled%204.png)
+    ![2/Untitled%204.png](images/Untitled%204.png)
 
 ### 캔버스
 
@@ -73,7 +73,7 @@ detail: 프로세싱 및 아두이노 설치/개발환경 소개
 
 → 다운로드 및 설치  : [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
-![2/Untitled%205.png](2/Untitled%205.png)
+![2/Untitled%205.png](images/Untitled%205.png)
 
 ## 알려진 확장자 표시하기
 
@@ -90,11 +90,11 @@ detail: 프로세싱 및 아두이노 설치/개발환경 소개
 
 프로세싱/아두이노 뿐만 아니라, 현존하는 대부분의 프로그래밍 언어를 지원합니다. 
 
-![2/Untitled%206.png](2/Untitled%206.png)
+![2/Untitled%206.png](images/Untitled%206.png)
 
 dash for mac
 
-![2/Untitled%207.png](2/Untitled%207.png)
+![2/Untitled%207.png](images/Untitled%207.png)
 
 velocity
 
@@ -118,7 +118,7 @@ Zeal → [https://zealdocs.org](https://zealdocs.org/)
 
 ## GIT?
 
-![2/Untitled%208.png](2/Untitled%208.png)
+![2/Untitled%208.png](images/Untitled%208.png)
 
 리눅스를 처음 고안한 리누스 토발즈라는 개발자께서 리눅스 커널을 관리하는 버전관리시스템(SVC)이 너무 엉망이라며 투털거리면서 2주만에 뚝딱 만들어낸 버전관리 시스템.
 
