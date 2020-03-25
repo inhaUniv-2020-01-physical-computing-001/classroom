@@ -99,21 +99,21 @@ dash for mac
 velocity
 
 - **MAC OS** 
-Dash for Mac → [https://kapeli.com/dash](https://kapeli.com/dash) 
-                            다운로드 받기 → [https://www.dropbox.com/s/avpmlfexzix8f8v/Dash.zip?dl=0](https://www.dropbox.com/s/avpmlfexzix8f8v/Dash.zip?dl=0)
+Dash for Mac → [https://kapeli.com/dash](https://kapeli.com/dash) <br/>
+다운로드 받기 → [https://www.dropbox.com/s/avpmlfexzix8f8v/Dash.zip?dl=0](https://www.dropbox.com/s/avpmlfexzix8f8v/Dash.zip?dl=0)<br/>
 맥에서 Zeal 설치하기 → [https://github.com/zealdocs/zeal/wiki/Build-Instructions-for-macOS](https://github.com/zealdocs/zeal/wiki/Build-Instructions-for-macOS)
 - **Windows** 
-Velocity → [https://velocity.silverlakesoftware.com](https://velocity.silverlakesoftware.com/)
+Velocity → [https://velocity.silverlakesoftware.com](https://velocity.silverlakesoftware.com/)<br/>
 Zeal → [https://zealdocs.org](https://zealdocs.org/)
 
 # github 소개
 
-개발자들의 SNS와도 같은 곳으로, 코드를 저장하는 저장소인 git을 웹서비스로 제공하는 곳이다.
+개발자들의 SNS와도 같은 곳으로, 코드를 저장하는 저장소인 git을 웹서비스로 제공하는 곳이다.<br/>
 무료로 가입/사용이 가능하다.
 
 매주 수업 진행 후 실습 예제등을 이곳에 공유할 예정.
 
-**오전반** → [https://github.com/inhaUniv-2020-01-physical-computing-001/classroom](https://github.com/inhaUniv-2020-01-physical-computing-001/classroom)
+**오전반** → [https://github.com/inhaUniv-2020-01-physical-computing-001/classroom](https://github.com/inhaUniv-2020-01-physical-computing-001/classroom)<br/>
 **오후반** → [https://github.com/inhaUniv-2020-01-physical-computing-002/classroom](https://github.com/inhaUniv-2020-01-physical-computing-002/classroom)
 
 ## GIT?
@@ -124,21 +124,21 @@ Zeal → [https://zealdocs.org](https://zealdocs.org/)
 
 ## Github
 
-대표적인 무료 Git 저장소로, 오픈소스(공개) 프로젝트의 경우 완전 무료, 비공개 저장소는 3명 참여까지는 무료로 사용할 수 있다. 전세계의 수많은 오픈소스 프로젝트들이 깃헙을 사용하고 있다. 
+대표적인 무료 Git 저장소로, 오픈소스(공개) 프로젝트의 경우 완전 무료, 비공개 저장소는 3명 참여까지는 무료로 사용할 수 있다. 전세계의 수많은 오픈소스 프로젝트들이 깃헙을 사용하고 있다. <br/>
 
-프로세싱또한 오픈소스로 개발되고 있어서, 개발코드들을 깃헙에서 직접 살펴볼 수 있으며, 버그를 발견할 경우, 해당 프로젝트 저장소에 보고할 수 있다.
+프로세싱또한 오픈소스로 개발되고 있어서, 개발코드들을 깃헙에서 직접 살펴볼 수 있으며, 버그를 발견할 경우, 해당 프로젝트 저장소에 보고할 수 있다.<br/>
 
-터미널에서 직접 명령어를 이용하여 깃을 사용할 수 있지만, 별도의 GUI 어플리케이션을 통해 사용할 수 있다.
+터미널에서 직접 명령어를 이용하여 깃을 사용할 수 있지만, 별도의 GUI 어플리케이션을 통해 사용할 수 있다.<br/>
 
 GitHub Desktop Download → [https://desktop.github.com](https://desktop.github.com/)
 
 > 깃 쉽게 이해하기
-> **누구나 쉽게 이해할 수 있는 Git 입문 →** [https://backlog.com/git-tutorial/kr/intro/intro1_1.html](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
+> **누구나 쉽게 이해할 수 있는 Git 입문 →** [https://backlog.com/git-tutorial/kr/intro/intro1_1.html](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)<br/>
 > **GitHub Desktop 사용** → [https://github.com/cau-cmclab/sku-cmclab.github.io/wiki/깃허브-데스크탑(GitHub-Desktop)-사용](https://github.com/cau-cmclab/sku-cmclab.github.io/wiki/깃허브-데스크탑(GitHub-Desktop)-사용)
 
 ## 로컬 에서 특정 폴더를 깃으로 버전관리하기
 
-특정 폴더를 저장소로 만들면, 파일버전등을 관리할 수 있다.
+특정 폴더를 저장소로 만들면, 파일버전등을 관리할 수 있다.<br/>
 저장소를 만든 뒤에는, 어떠한 파일이든 새로 만들어지거나, 수정한 내역등을 기록할 수 있다.
 
 ### add/commit
@@ -151,32 +151,33 @@ GitHub Desktop Download → [https://desktop.github.com](https://desktop.github.
 
 ### clone:
 
-원격 저장소의 코드를 로컬에 똑같이 복제하는 명령어
-깃헙에서 코드들을 zip파일로 다운받을 수 있지만, 깃을 사용하면 손쉽게 복제가 가능하다.
+원격 저장소의 코드를 로컬에 똑같이 복제하는 명령어<br/>
+깃헙에서 코드들을 zip파일로 다운받을 수 있지만, 깃을 사용하면 손쉽게 복제가 가능하다.<br/>
 추후에 원격저장소의 코드가 업데이트 된다면, 업데이트 깃을 통해 반영할 수도 있다.
 
-**clone 
-원격저장소** (깃헙 저장소)
-****↓ ↓  `clone`
+**clone **
+**원격저장소** (깃헙 저장소)
+↓ ↓  `clone`
 **로컬 저장소** (내 컴퓨터)
 
 ### push / pull :
 
 등록된 원격 저장소와 로컬 저장소간에 업데이트된 코드들을 업데이트(동기화)하는 명령어이다.
 
-**pull `git pull`**
-원격 저장소의 내용을 로컬 저장소에 반영한다.
-——————————————————
-**원격 저장소** (깃헙 서버)
-↓ `pull` 
-**로컬 저장소** (내 컴퓨터)
+> **pull `git pull` **<br/>
+> 원격 저장소의 내용을 로컬 저장소에 반영한다.<br/>
+> ——————————————————<br/>
+>**원격 저장소** (깃헙 서버)<br/>
+> ↓ `pull` <br/>
+> **로컬 저장소** (내 컴퓨터)
 
-**push  `git push ORIGIN MASTER`** 
-로컬 저장소의 내용을 원격 저장소에 반영한다.
-**commit된 내용들만 동기화된다.*
-——————————————————
-**원격 저장소** (깃헙 서버)
- ↑ `push`
-**로컬 저장소** (내 컴퓨터)
+
+> **push  `git push ORIGIN MASTER`** <br/>
+> 로컬 저장소의 내용을 원격 저장소에 반영한다.<br/>
+> **commit된 내용들만 동기화된다.*<br/>
+> ——————————————————<br/>
+> **원격 저장소** (깃헙 서버)<br/>
+> ↑ `push`<br/>
+>  **로컬 저장소** (내 컴퓨터)
 
 ## 깃헙 실습하기
